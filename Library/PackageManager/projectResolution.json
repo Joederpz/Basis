@@ -1,0 +1,559 @@
+{
+  "context": {
+    "projectPath": "C:/Users/armie/OneDrive/Documents/GitHub/Basis/Packages",
+    "unityVersion": "6000.0.29f1"
+  },
+  "inputs": [
+    "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\manifest.json",
+    "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\packages-lock.json",
+    "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\com.valvesoftware.unity.openvr-1.2.1.tgz",
+    "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\Basis Framework\\package.json",
+    "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\BasisSerializer.OdinSerializer\\package.json",
+    "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\HVRBasisAvatarComms\\package.json",
+    "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\HVRBasisNDMF\\package.json",
+    "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\JigglePhysics\\package.json",
+    "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\LiteNetLib\\package.json",
+    "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\basisGizmos\\package.json",
+    "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\basisaddressable\\package.json",
+    "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\basisconsole\\package.json",
+    "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\basisdk\\package.json",
+    "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\basistests\\package.json",
+    "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\com.llealloo.audiolink\\package.json",
+    "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\uLipSync\\package.json"
+  ],
+  "outputs": {
+    "com.unity.2d.sprite@1.0.0": {
+      "name": "com.unity.2d.sprite",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.2d.sprite",
+      "fingerprint": "0e70656ef5df5c7161c8cfc6f24ab0dde0dc637e",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.addressables@2.2.2": {
+      "name": "com.unity.addressables",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.addressables",
+      "fingerprint": "4f7e840f4cce8ffab522b6febb1b52af9e928bdb",
+      "editorCompatibility": "2023.1.0a1",
+      "version": "2.2.2",
+      "source": "registry"
+    },
+    "com.unity.animation.rigging@1.3.0": {
+      "name": "com.unity.animation.rigging",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.animation.rigging",
+      "fingerprint": "68167b505d2b550a35f5d5b6daef6193de3c7460",
+      "editorCompatibility": "2022.2.0a9",
+      "version": "1.3.0",
+      "source": "registry"
+    },
+    "com.unity.ide.rider@3.0.31": {
+      "name": "com.unity.ide.rider",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.ide.rider",
+      "fingerprint": "7921be93db40ec070fcb01ed82d1c3df1bbdddcd",
+      "editorCompatibility": "2019.2.6f1",
+      "version": "3.0.31",
+      "source": "registry"
+    },
+    "com.unity.ide.visualstudio@2.0.22": {
+      "name": "com.unity.ide.visualstudio",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.ide.visualstudio",
+      "fingerprint": "8140e851d83e922ca2021b04a89519de94ebe38c",
+      "editorCompatibility": "2019.4.25f1",
+      "version": "2.0.22",
+      "source": "registry"
+    },
+    "com.unity.inputsystem@1.11.2": {
+      "name": "com.unity.inputsystem",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.inputsystem",
+      "fingerprint": "3c4a97c3950fef77960981e0fe90613de6e512ee",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "1.11.2",
+      "source": "registry"
+    },
+    "com.unity.memoryprofiler@1.1.1": {
+      "name": "com.unity.memoryprofiler",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.memoryprofiler",
+      "fingerprint": "7555aee67a0298b971104e73b4939a2b7dfb5af0",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "1.1.1",
+      "source": "registry"
+    },
+    "com.unity.profiling.core@1.0.2": {
+      "name": "com.unity.profiling.core",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.profiling.core",
+      "fingerprint": "aac7b93912bc5df5fe06b04ff1b758493cdc2346",
+      "editorCompatibility": "2020.1.0a1",
+      "version": "1.0.2",
+      "source": "registry"
+    },
+    "com.unity.render-pipelines.universal@17.0.3": {
+      "name": "com.unity.render-pipelines.universal",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.render-pipelines.universal",
+      "fingerprint": "f1787d0c270e15a3d776eda91ab4d8001d032be6",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.3",
+      "source": "builtin"
+    },
+    "com.unity.timeline@1.8.7": {
+      "name": "com.unity.timeline",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.timeline",
+      "fingerprint": "c58b4ee65782ad38338e29f7ee67787cb6998f04",
+      "editorCompatibility": "2019.3.0a1",
+      "version": "1.8.7",
+      "source": "registry"
+    },
+    "com.unity.visualeffectgraph@17.0.3": {
+      "name": "com.unity.visualeffectgraph",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.visualeffectgraph",
+      "fingerprint": "648a09d9bb96cfa8625f2864d916c47a33199385",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.3",
+      "source": "builtin"
+    },
+    "com.unity.xr.management@4.5.0": {
+      "name": "com.unity.xr.management",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.xr.management",
+      "fingerprint": "3126858600e621b17ff9bfda920ebf34b9f2414c",
+      "editorCompatibility": "2020.3.15f1",
+      "version": "4.5.0",
+      "source": "registry"
+    },
+    "com.unity.xr.openxr@1.13.1": {
+      "name": "com.unity.xr.openxr",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.xr.openxr",
+      "fingerprint": "767bb845714d00a28b9456f5d706bb80c95781b7",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.13.1",
+      "source": "registry"
+    },
+    "com.valvesoftware.unity.openvr@file:C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\com.valvesoftware.unity.openvr-1.2.1.tgz": {
+      "name": "com.valvesoftware.unity.openvr",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.valvesoftware.unity.openvr",
+      "fingerprint": "c2e7dd5583b9b091d64b836a0179c73d",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "1.2.2",
+      "source": "local-tarball"
+    },
+    "com.unity.modules.accessibility@1.0.0": {
+      "name": "com.unity.modules.accessibility",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.accessibility",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.ai@1.0.0": {
+      "name": "com.unity.modules.ai",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.ai",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.androidjni@1.0.0": {
+      "name": "com.unity.modules.androidjni",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.androidjni",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.animation@1.0.0": {
+      "name": "com.unity.modules.animation",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.animation",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.assetbundle@1.0.0": {
+      "name": "com.unity.modules.assetbundle",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.assetbundle",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.audio@1.0.0": {
+      "name": "com.unity.modules.audio",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.audio",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.cloth@1.0.0": {
+      "name": "com.unity.modules.cloth",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.cloth",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.director@1.0.0": {
+      "name": "com.unity.modules.director",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.director",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.imageconversion@1.0.0": {
+      "name": "com.unity.modules.imageconversion",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.imageconversion",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.imgui@1.0.0": {
+      "name": "com.unity.modules.imgui",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.imgui",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.jsonserialize@1.0.0": {
+      "name": "com.unity.modules.jsonserialize",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.jsonserialize",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.particlesystem@1.0.0": {
+      "name": "com.unity.modules.particlesystem",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.particlesystem",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.physics@1.0.0": {
+      "name": "com.unity.modules.physics",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.physics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.physics2d@1.0.0": {
+      "name": "com.unity.modules.physics2d",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.physics2d",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.screencapture@1.0.0": {
+      "name": "com.unity.modules.screencapture",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.screencapture",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.terrain@1.0.0": {
+      "name": "com.unity.modules.terrain",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.terrain",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.terrainphysics@1.0.0": {
+      "name": "com.unity.modules.terrainphysics",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.terrainphysics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.tilemap@1.0.0": {
+      "name": "com.unity.modules.tilemap",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.tilemap",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.ui@1.0.0": {
+      "name": "com.unity.modules.ui",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.ui",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.uielements@1.0.0": {
+      "name": "com.unity.modules.uielements",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.uielements",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.umbra@1.0.0": {
+      "name": "com.unity.modules.umbra",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.umbra",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unityanalytics@1.0.0": {
+      "name": "com.unity.modules.unityanalytics",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.unityanalytics",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequest@1.0.0": {
+      "name": "com.unity.modules.unitywebrequest",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.unitywebrequest",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestassetbundle@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestassetbundle",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.unitywebrequestassetbundle",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestaudio@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestaudio",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.unitywebrequestaudio",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequesttexture@1.0.0": {
+      "name": "com.unity.modules.unitywebrequesttexture",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.unitywebrequesttexture",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.unitywebrequestwww@1.0.0": {
+      "name": "com.unity.modules.unitywebrequestwww",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.unitywebrequestwww",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.vehicles@1.0.0": {
+      "name": "com.unity.modules.vehicles",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.vehicles",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.video@1.0.0": {
+      "name": "com.unity.modules.video",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.video",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.vr@1.0.0": {
+      "name": "com.unity.modules.vr",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.vr",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.wind@1.0.0": {
+      "name": "com.unity.modules.wind",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.wind",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.xr@1.0.0": {
+      "name": "com.unity.modules.xr",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.xr",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.basis.basisframework@file:C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\Basis Framework": {
+      "name": "com.basis.basisframework",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\Basis Framework",
+      "version": "0.0.1",
+      "source": "embedded"
+    },
+    "com.basis.odinserializer@file:C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\BasisSerializer.OdinSerializer": {
+      "name": "com.basis.odinserializer",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\BasisSerializer.OdinSerializer",
+      "version": "0.0.1",
+      "source": "embedded"
+    },
+    "dev.hai-vr.basis.comms@file:C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\HVRBasisAvatarComms": {
+      "name": "dev.hai-vr.basis.comms",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\HVRBasisAvatarComms",
+      "version": "0.0.1",
+      "source": "embedded"
+    },
+    "dev.hai-vr.basis.ndmf@file:C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\HVRBasisNDMF": {
+      "name": "dev.hai-vr.basis.ndmf",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\HVRBasisNDMF",
+      "version": "0.0.1",
+      "source": "embedded"
+    },
+    "com.naelstrof.jigglephysics@file:C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\JigglePhysics": {
+      "name": "com.naelstrof.jigglephysics",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\JigglePhysics",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "10.0.1",
+      "source": "embedded"
+    },
+    "com.revenantx.litenetlib@file:C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\LiteNetLib": {
+      "name": "com.revenantx.litenetlib",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\LiteNetLib",
+      "editorCompatibility": "2018.3.0a1",
+      "version": "1.0.1-1",
+      "source": "embedded"
+    },
+    "com.basis.gizmos@file:C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\basisGizmos": {
+      "name": "com.basis.gizmos",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\basisGizmos",
+      "version": "0.0.1",
+      "source": "embedded"
+    },
+    "com.basis.basisaddressables@file:C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\basisaddressable": {
+      "name": "com.basis.basisaddressables",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\basisaddressable",
+      "version": "0.0.1",
+      "source": "embedded"
+    },
+    "com.basis.basisconsoledisplay@file:C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\basisconsole": {
+      "name": "com.basis.basisconsoledisplay",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\basisconsole",
+      "version": "0.0.1",
+      "source": "embedded"
+    },
+    "com.basis.basisdk@file:C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\basisdk": {
+      "name": "com.basis.basisdk",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\basisdk",
+      "version": "0.0.1",
+      "source": "embedded"
+    },
+    "com.basis.basistests@file:C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\basistests": {
+      "name": "com.basis.basistests",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\basistests",
+      "version": "0.0.1",
+      "source": "embedded"
+    },
+    "com.llealloo.audiolink@file:C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\com.llealloo.audiolink": {
+      "name": "com.llealloo.audiolink",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\com.llealloo.audiolink",
+      "editorCompatibility": "2022.3.0a1",
+      "version": "2.0.0",
+      "source": "embedded"
+    },
+    "com.hecomi.ulipsync@file:C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\uLipSync": {
+      "name": "com.hecomi.ulipsync",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\uLipSync",
+      "version": "3.1.1",
+      "source": "embedded"
+    },
+    "com.unity.burst@1.8.18": {
+      "name": "com.unity.burst",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.burst",
+      "fingerprint": "616862665d8c8ffe643d505aebb5de2ee73b0ab0",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "1.8.18",
+      "source": "registry"
+    },
+    "com.unity.mathematics@1.3.2": {
+      "name": "com.unity.mathematics",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.mathematics",
+      "fingerprint": "8017b507cc74bf0a1dd14b18aa860569f807314d",
+      "editorCompatibility": "2021.3.0a1",
+      "version": "1.3.2",
+      "source": "registry"
+    },
+    "com.unity.modules.subsystems@1.0.0": {
+      "name": "com.unity.modules.subsystems",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.subsystems",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.modules.hierarchycore@1.0.0": {
+      "name": "com.unity.modules.hierarchycore",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.modules.hierarchycore",
+      "version": "1.0.0",
+      "source": "builtin"
+    },
+    "com.unity.xr.legacyinputhelpers@2.1.11": {
+      "name": "com.unity.xr.legacyinputhelpers",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.xr.legacyinputhelpers",
+      "fingerprint": "a3936666e06871a5fd0461a69a4d99efb31a21c1",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.1.11",
+      "source": "registry"
+    },
+    "com.unity.xr.core-utils@2.3.0": {
+      "name": "com.unity.xr.core-utils",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.xr.core-utils",
+      "fingerprint": "f4116c6290594e2609ede158fccdad4a54a17081",
+      "editorCompatibility": "2019.4.0f1",
+      "version": "2.3.0",
+      "source": "registry"
+    },
+    "com.unity.shadergraph@17.0.3": {
+      "name": "com.unity.shadergraph",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.shadergraph",
+      "fingerprint": "e6e0df3c9e43d268733e3882298a59923bdf76d3",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.3",
+      "source": "builtin"
+    },
+    "com.unity.render-pipelines.core@17.0.3": {
+      "name": "com.unity.render-pipelines.core",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.render-pipelines.core",
+      "fingerprint": "6e77ef45087e5aef2fb39b5689587b5c9dfd9ecc",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.3",
+      "source": "builtin"
+    },
+    "com.unity.render-pipelines.universal-config@17.0.3": {
+      "name": "com.unity.render-pipelines.universal-config",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.render-pipelines.universal-config",
+      "fingerprint": "fa63c96d3e1af317d84d171cd6c0e0658ab159df",
+      "editorCompatibility": "6000.0.0a1",
+      "version": "17.0.3",
+      "source": "builtin"
+    },
+    "com.unity.editorcoroutines@1.0.0": {
+      "name": "com.unity.editorcoroutines",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.editorcoroutines",
+      "fingerprint": "7d48783e7b8cfcee5f8ef9ba787ed0d9dad4ebca",
+      "editorCompatibility": "2018.1.0a1",
+      "version": "1.0.0",
+      "source": "registry"
+    },
+    "com.unity.test-framework@1.4.5": {
+      "name": "com.unity.test-framework",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.test-framework",
+      "fingerprint": "0a21eb82d95cd331643a1e0ce4e8e9a5f18954c8",
+      "editorCompatibility": "2019.4.0a10",
+      "version": "1.4.5",
+      "source": "registry"
+    },
+    "com.unity.ext.nunit@2.0.5": {
+      "name": "com.unity.ext.nunit",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.ext.nunit",
+      "fingerprint": "60ef35ffd3cd5e2f5c8887a4a4ca6148854cd092",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.0.5",
+      "source": "registry"
+    },
+    "com.unity.scriptablebuildpipeline@2.1.4": {
+      "name": "com.unity.scriptablebuildpipeline",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.scriptablebuildpipeline",
+      "fingerprint": "101dcb4353ce8bea5b4404d0ca31ce5a00ca751b",
+      "editorCompatibility": "2019.4.0a1",
+      "version": "2.1.4",
+      "source": "registry"
+    },
+    "com.unity.ugui@2.0.0": {
+      "name": "com.unity.ugui",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.ugui",
+      "fingerprint": "b59254db9e7ca0cf2a9d3b7af4d6cad72c3acf44",
+      "editorCompatibility": "2019.2.0a1",
+      "version": "2.0.0",
+      "source": "builtin"
+    },
+    "com.unity.collections@2.5.1": {
+      "name": "com.unity.collections",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.collections",
+      "fingerprint": "56bff8827a7ef6d44fcee4f36e558a74da89c1a0",
+      "editorCompatibility": "2022.3.11f1",
+      "version": "2.5.1",
+      "source": "registry"
+    },
+    "com.unity.rendering.light-transport@1.0.1": {
+      "name": "com.unity.rendering.light-transport",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.rendering.light-transport",
+      "fingerprint": "307bc27a498fc9cd409bbd426c85d8dc7f140bc1",
+      "editorCompatibility": "2023.3.0b1",
+      "version": "1.0.1",
+      "source": "builtin"
+    },
+    "com.unity.searcher@4.9.2": {
+      "name": "com.unity.searcher",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.searcher",
+      "fingerprint": "90d011a70418fd5b0f4b8e86df39444d2af228dd",
+      "editorCompatibility": "2019.1.0a1",
+      "version": "4.9.2",
+      "source": "registry"
+    },
+    "com.unity.nuget.mono-cecil@1.11.4": {
+      "name": "com.unity.nuget.mono-cecil",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.nuget.mono-cecil",
+      "fingerprint": "d6f9955a5d5f84d45442ff1ad0fb694cc6e2fd62",
+      "editorCompatibility": "2018.4.0a1",
+      "version": "1.11.4",
+      "source": "registry"
+    },
+    "com.unity.test-framework.performance@3.0.3": {
+      "name": "com.unity.test-framework.performance",
+      "resolvedPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Library\\PackageCache\\com.unity.test-framework.performance",
+      "fingerprint": "fb0dc592af8b524f1a06c50d7caf95552f1bcd2f",
+      "editorCompatibility": "2020.3.0a1",
+      "version": "3.0.3",
+      "source": "registry"
+    }
+  }
+}

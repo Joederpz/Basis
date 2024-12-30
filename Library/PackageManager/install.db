@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 1,
+  "packages": {
+    "com.valvesoftware.unity.openvr": {
+      "tarball": {
+        "hash": "c2e7dd5583b9b091d64b836a0179c73d",
+        "mtime": 1735582777515,
+        "size": 18865522,
+        "localPath": "C:\\Users\\armie\\OneDrive\\Documents\\GitHub\\Basis\\Packages\\com.valvesoftware.unity.openvr-1.2.1.tgz"
+      }
+    }
+  }
+}

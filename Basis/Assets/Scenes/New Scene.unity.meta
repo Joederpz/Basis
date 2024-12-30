@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Basis/Assets/Scenes/New Scene.unity.meta
+guid: f38879da1b950334cab07a2bad1734c0
+========
+guid: 301af7a31b7fe9c4fbbcd621eb8ede82
+>>>>>>>> long-term-support:Basis/Packages/Basis Server/LiteNetLib/LiteNetLib.csproj.meta
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
